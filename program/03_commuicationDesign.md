@@ -7,6 +7,12 @@
 
 # Communication Design and Storyboards
 
+## Worked Example
+
+* Present a worked example as a template for completing the exercise.
+* Point out where it could be improved.
+
+
 [Overview](./00_overview.md) |
 [Decisions from Data](./01_decisions.md) |
 [Adv. Data Vis & Communication](./02_datavis.md) |
