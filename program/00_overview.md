@@ -29,8 +29,8 @@
 | 08:45 | 10:00 | [**Decisions from Data**]                  |
 | 10:00 | 10:30 | *Morning Tea*                              |
 | 10:30 | 12:00 | [**Adv. Data Vis & Communication**]        |
-| 12:00 | 13:00 | *Lunch*                                    |
-| 13:00 | 14:30 | [**Communication Design and Storyboards**] |
+| 12:00 | 12:45 | *Lunch*                                    |
+| 12:45 | 14:30 | [**Communication Design and Storyboards**] |
 | 14:30 | 15:00 | *Afternoon Tea*                            |
 | 15:00 | 16:30 | [**Storyboards and Review**]               |
 | 16:30 | 16:45 | [**Closeout**]                             |
