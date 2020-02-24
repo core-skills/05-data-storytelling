@@ -1,6 +1,6 @@
 [Overview](./00_overview.md) |
-[Data Stories](./01_datastories.md) |
-[Adv. Data Vis & Communication](./02_datavis.md) |
+[Data Vis & Communication](./01_dataviscomms.md) |
+[Data Stories](./02_datastories.md) |
 [Communication Design](./03_commuicationDesign.md) |
 [Storyboards and Review](./04_review.md)  |
 [Closeout](./05_closeout.md)
@@ -222,14 +222,14 @@ Make sure you frame these in terms of your audience!
 
 1.	Checking structure through headlines (horizontal logic)
 2.	Making sure everything in a view is supportive (vertical logic)
-3.	Reverse storyboarding final product
+3.	Reverse storyboarding final product (start with headlines)
 4.	Edit ruthlessly – keep it simple – be authentic
 5.	Get a second opinion!
 
 
 [Overview](./00_overview.md) |
-[Data Stories](./01_datastories.md) |
-[Adv. Data Vis & Communication](./02_datavis.md) |
+[Data Vis & Communication](./01_dataviscomms.md) |
+[Data Stories](./02_datastories.md) |
 [Communication Design](./03_commuicationDesign.md) |
 [Storyboards and Review](./04_review.md)  |
 [Closeout](./05_closeout.md)
