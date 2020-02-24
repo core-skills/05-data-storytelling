@@ -1,7 +1,7 @@
 # Overview
 
 [Overview](./00_overview.md) |
-[Decisions from Data](./01_decisions.md) |
+[Data Stories](./01_datastories.md) |
 [Adv. Data Vis & Communication](./02_datavis.md) |
 [Communication Design](./03_commuicationDesign.md) |
 [Storyboards and Review](./04_review.md)  |
@@ -26,7 +26,7 @@
 | Start | End   | Agenda                                     |
 | -----:|:----- | ------------------------------------------ |
 | 08:30 | 08:45 | Q&A, Issues & Announcements                |
-| 08:45 | 10:00 | [**Decisions from Data**]                  |
+| 08:45 | 10:00 | [**Data Stories**]                  |
 | 10:00 | 10:30 | *Morning Tea*                              |
 | 10:30 | 12:00 | [**Adv. Data Vis & Communication**]        |
 | 12:00 | 12:45 | *Lunch*                                    |
@@ -35,7 +35,7 @@
 | 15:00 | 16:30 | [**Storyboards and Review**]               |
 | 16:30 | 16:45 | [**Closeout**]                             |
 
-[**Decisions from Data**]: ./01_decisions.md
+[**Data Stories**]: ./01_datastories.md
 
 [**Adv. Data Vis & Communication**]: ./02_datavis.md
 
