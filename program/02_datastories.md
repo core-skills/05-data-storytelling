@@ -28,12 +28,12 @@ stories to understand how the techniques we've been talking about have been used
 Considering at least one of the data visualisations, run through a few questions
 to pull it apart:
 
-| Data Visualisation Interrogation                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| :question: How do the team walk readers through the story in this data viz?                                                                                                                            |
-| :question: How do they provide structure to the data (e.g. consider <a id="a1">[Gestalt principles](#f1 "Proximity, Similarity, Enclosure, Closure, Continuity, Connection")</a> )?                    |
+| Data Visualisation Interrogation                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :question: How do the team walk readers through the story in this data viz?                                                                                                                              |
+| :question: How do they provide structure to the data (e.g. consider <a id="a1">[Gestalt principles](#f1 "Proximity, Similarity, Enclosure, Closure, Continuity, Connection")</a> )?                      |
 | :question: How do they focus the audience's attention (e.g. consider <a id="a2">[pre-attentive attributes](#f2 "Orientation, Colour, Size, Curvature or Added Marks, Intensity, Location, Motion")</a>)? |
-| :question: Do they use affordances for the audience to interact with the data?                                                                                                                         |
+| :question: Do they use affordances for the audience to interact with the data?                                                                                                                           |
 
 Come up with a three minute story and a big idea for the visualisation you've just ran through.
 
