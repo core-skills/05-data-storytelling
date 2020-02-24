@@ -199,6 +199,34 @@ use it.
 | 20 mins |
 | ------- |
 
+**Facts a story maketh not.**
+
+**Facts don't win friends.**
+
+### Structure of a Narrative
+
+Classically, this could be considered in terms of dramatic structure with
+a **setup**, **conflict** and **resolution** (à la Aristotle:
+"A whole is what has a beginning and middle and end" ).
+
+|                | :question: What does this look like for us?                               |
+| --------------:| ------------------------------------------------------------------------- |
+|      **Setup** | *The setting*: when, where and who?                                       |
+|   **Conflict** | *The imbalance*: why is it necessary, what has changed?                   |
+|                | *The balance*: what do you want to see happen?                            |
+| **Resolution** | *The solution*: how will you bring about the changes? The call to action. |
+
+Make sure you frame these in terms of your audience!
+
+### Developing Storyboards
+
+1.	Checking structure through headlines (horizontal logic)
+2.	Making sure everything in a view is supportive (vertical logic)
+3.	Reverse storyboarding final product
+4.	Edit ruthlessly – keep it simple – be authentic
+5.	Get a second opinion!
+
+
 [Overview](./00_overview.md) |
 [Data Stories](./01_datastories.md) |
 [Adv. Data Vis & Communication](./02_datavis.md) |
