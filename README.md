@@ -1,4 +1,4 @@
-# Core skills program - week 5 - Telling stories with data
+# CORE Skills Data Science Springboard - Day 7 - Telling stories with data
 
 The aim of today's session will be to develop an understanding of the intersection between data and communication – where this works well, where this goes wrong and how to improve the communication from their projects. We'll look at how we can use data to tell compelling stories, change the way people view problems and effectively suggest a course of action.
 

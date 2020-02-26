@@ -35,9 +35,9 @@
 | 15:00 | 16:30 | [**Storyboards and Review**]               |
 | 16:30 | 16:45 | [**Closeout**]                             |
 
-[**Data Vis & Communications**]: ./01_dataviscomms.md
+[**Data Vis & Communication**]: ./01_dataviscomms.md
 
-[**Data Stories**]: ./02_datavis.md
+[**Data Stories**]: ./02_datastories.md
 
 [**Communication Design and Storyboards**]: ./03_commuicationDesign.md
 

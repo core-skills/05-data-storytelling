@@ -20,7 +20,7 @@ incidents while at work. People are not good at assessing risk objectively –
 can we help them calibrate their risk detectors with a good data story?
 
 Some starting data to be used:
-* [SafewWorkAustralia](https://www.safeworkaustralia.gov.au/resources_publications/statistical-tables)
+* [SafeWorkAustralia](https://www.safeworkaustralia.gov.au/resources_publications/statistical-tables)
 * [Worksafe WA](https://www.commerce.wa.gov.au/worksafe/work-related-fatalities)
 * *or*, anything else you can find (e.g. [data.gov.au](data.gov.au),
   [Australian Bureau of Statistics](https://www.abs.gov.au/)).
