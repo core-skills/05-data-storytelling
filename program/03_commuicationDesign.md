@@ -20,10 +20,15 @@ incidents while at work. People are not good at assessing risk objectively –
 can we help them calibrate their risk detectors with a good data story?
 
 Some starting data to be used:
-* [SafeWorkAustralia](https://www.safeworkaustralia.gov.au/resources_publications/statistical-tables)
-* [Worksafe WA](https://www.commerce.wa.gov.au/worksafe/work-related-fatalities)
+* SafeWorkAustralia (`.xlsx`, `.pdf`):
+  [Statistical Tables](https://www.safeworkaustralia.gov.au/resources_publications/statistical-tables),
+  [Time Series](https://www.safeworkaustralia.gov.au/doc/work-related-traumatic-injury-fatality-time-series),
+  [Traumatic Injury Fatalities Collection](https://www.safeworkaustralia.gov.au/collection/work-related-traumatic-injury-fatalities),
+* Worksafe WA [State of the Work environment](https://www.commerce.wa.gov.au/worksafe/work-related-fatalities) (`.pdf`)
 * *or*, anything else you can find (e.g. [data.gov.au](data.gov.au),
   [Australian Bureau of Statistics](https://www.abs.gov.au/)).
+
+For a challenge later, maybe have a look at the US National Electronic Injury Surveillance System ([~390,000 injuries `.xlsx` from 2018](https://cpsc.gov/cgibin/NEISSQuery/Data/Archived%20Data/2018/neiss2018.xlsx))
 
 You will have an hour and a half to complete this exercise.
 We will be sharing these with the rest of the class after afternoon tea,
