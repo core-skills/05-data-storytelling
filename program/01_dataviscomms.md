@@ -55,6 +55,12 @@ Avoid 'slideuments'!
 | :question: What would a successful outcome look like?                                                           |
 
 
+## Telling Good Stories
+
+| 20 mins |
+| ------- |
+
+
 ### Three Minute Story
 
 When you have an idea or message to convey,
@@ -84,17 +90,12 @@ achievement, because it holds the key to *our* future on Earth."
 
 <b id='f1'>#</b>: Duarte, N. (2010). Resonate: present visual stories that transform audiences. Wiley, Hoboken, N.J. [duarte.com/resonate/](https://www.duarte.com/resonate/)
 
-## Telling Good Stories
-
-| 20 mins |
-| ------- |
-
-**Facts a story maketh not.**
+### Facts a Story Maketh Not
 
 While a story often contains facts, they don't make it. A dot-point run through of
 a story illustrating just the key facts won't engage an audience.
 
-**Facts don't win friends.**
+## Facts Don't Win Friends
 
 If you're trying to convince someone, sometimes bombarding them with facts can
 be counter-productive. Especially where you have opposing views to start with
