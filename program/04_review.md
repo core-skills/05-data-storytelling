@@ -15,15 +15,13 @@ Here we'll share our storyboards and ideas.
 In particular, raise issues or ideas around visualisation styles and attributes,
 how you established context and pitched the message, and data ethics!
 
-
 # Review
 
 | 20 mins |
 | ------- |
 
 The last section for today before closeout will review the first
-few weeks of the program, and discuss the interaction with leaders/
-decision makers within your organizations.
+few weeks of the program.
 
 | :question: Where have we got to? |
 | -------------------------------- |
@@ -42,7 +40,6 @@ decision makers within your organizations.
 6.	Do you see areas in your own work you can apply these steps?
 7.	Have you had enough examples and opportunities to practice (which)?
 8.	Are we meeting your expectations?
-
 
 # Closeout & Project time
 
