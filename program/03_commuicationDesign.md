@@ -10,8 +10,6 @@
 | 90 mins |
 | ------- |
 
-## Asking Useful Questions
-
 ## Putting Together a Data-Driven Storyboard
 
 You have been tasked with creating a story using data to highlight the most
