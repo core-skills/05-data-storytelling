@@ -122,16 +122,22 @@ Make sure you frame these in terms of your audience!
 
 ### Developing Storyboards
 
+* Starting with the elements of a broad narrative, how do you arrange them?
+* These can be as detailed as you want
+* Today we’ll be using them to structure narratives
+
+| :question: Where do you want your ‘big idea’? First? Last? |
+| ---------------------------------------------------------- |
+
+* Breakdown your story onto post-its, and arrange them on a whiteboard/desk/window.
+
+Refining storyboards:
 1.	Checking structure through headlines (horizontal logic)
 2.	Making sure everything in a view is supportive (vertical logic)
 3.	Reverse storyboarding final product (start with headlines)
 4.	Edit ruthlessly – keep it simple – be authentic
 5.	Get a second opinion!
 
-### Storyboarding
-
-One way of constructing narratives
-Breakdown your story onto post-its, and arrange them on a whiteboard/desk/window.
 
 ## Choosing Good Visualisations
 
@@ -268,9 +274,15 @@ you find appealing, deconstruct the design, and perhaps and attempt to replicate
 
 ## Affordance
 
-Let the audience know why the information is useful to them, and how they can
-use it.
+In the context of your message, let the audience know why the information is useful
+to them, and how they can use it.
 
+* Interactive visualisations and Experiences are different.
+* How do you guide your audience?
+* For most tools you’ll work with, some of these affordances will be built-in (e.g.
+  styling, buttons, hover tools etc)
+
+Consider aspects of affordance and accessibility in your projects too.
 
 
 [Overview](./00_overview.md) |
