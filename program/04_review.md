@@ -5,7 +5,7 @@
 [Storyboards and Review](./04_review.md)  |
 [Closeout](./05_closeout.md)
 
-# Storyboards
+# Storyboard Presentations
 
 | 30 mins |
 | ------- |
@@ -40,10 +40,12 @@ decision makers within your organizations.
 8.	Are we meeting your expectations?
 
 
-# Approaching Decision Makers
+# Closeout & Project time
 
-| 40 mins |
+| 55 mins |
 | ------- |
+
+More time for projects or to work through examples we have been through.
 
 [Overview](./00_overview.md) |
 [Data Vis & Communication](./01_dataviscomms.md) |
