@@ -58,9 +58,9 @@ to pull it apart:
 
 <b id="f2">Pre-attentive attributes</b>: Orientation, Colour, Size, Curvature or Added Marks, Intensity, Location, Motion. [↩](#a2)
 
-| :question: What works well?                                                |
+ :question: What works well?                                                
 
-| :question: What are elements which were redundant or confused the message? |
+ :question: What are elements which were redundant or confused the message? 
 
 ## Share What You've Found
 
@@ -79,14 +79,9 @@ Pair up with people that have the same story as you and share your bullet points
 
 Share 3-minute story summaries
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-
-
 :triangular_flag_on_post: Get together into a few groups for after lunch, where we'll be developing some
 storyboards around risk reduction.
 
-| -------------------------------------------------------------------------- |
 
 # Listing of data-driven stories
 
