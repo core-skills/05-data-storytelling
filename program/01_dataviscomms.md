@@ -53,7 +53,7 @@ Avoid 'slideuments'!
 | :question: Is our audience familiar with this data or is it new?                                                |
 | :question: 	What are the risks? What factors could weaken our case, and do we need to proactively address them? |
 | :question: What would a successful outcome look like?                                                           |
-| :question: What's your one-liner overview?                                                                      |
+
 
 ### Three Minute Story
 
