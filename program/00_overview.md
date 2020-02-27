@@ -23,24 +23,26 @@
 
 ## Schedule
 
-| Start | End   | Agenda                                     |
-| -----:|:----- | ------------------------------------------ |
-| 08:30 | 08:45 | Q&A, Issues & Announcements                |
-| 08:45 | 10:00 | [**Data Vis & Communication**]             |
-| 10:00 | 10:30 | *Morning Tea*                              |
-| 10:30 | 12:00 | [**Data Stories**]                         |
-| 12:00 | 12:45 | *Lunch*                                    |
-| 12:45 | 14:30 | [**Communication Design and Storyboards**] |
-| 14:30 | 15:00 | *Afternoon Tea*                            |
-| 15:00 | 16:30 | [**Storyboards and Review**]               |
-| 16:30 | 16:45 | [**Closeout**]                             |
+| Start | End   | Agenda                                   |
+| -----:|:----- | ---------------------------------------- |
+| 08:30 | 08:45 | Q&A, Issues & Announcements              |
+| 08:45 | 10:00 | [**Data Vis & Communication**]           |
+| 10:00 | 10:30 | *Morning Tea*                            |
+| 10:30 | 11:30 | [**Data Stories**]                       |
+| 11:30 | 12:15 | **Project Work**                         |
+| 12:15 | 13:00 | *Lunch*                                  |
+| 13:00 | 14:30 | [**Building Storyboards**]               |
+| 14:30 | 15:00 | *Afternoon Tea*                          |
+| 15:00 | 15:50 | [**Storyboard Presentation and Review**] |
+| 15:50 | 15:55 | [**Closeout**]                           |
+| 15:55 | 16:45 | **Project Work**                         |
 
 [**Data Vis & Communication**]: ./01_dataviscomms.md
 
 [**Data Stories**]: ./02_datastories.md
 
-[**Communication Design and Storyboards**]: ./03_commuicationDesign.md
+[**Building Storyboards**]: ./03_commuicationDesign.md
 
-[**Storyboards and Review**]: ./04_review.md
+[**Storyboard Presentation and Review**]: ./04_review.md
 
 [**Closeout**]: ./05_closeout.md
