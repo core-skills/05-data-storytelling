@@ -33,7 +33,7 @@ Spend a few minutes reading through the story and have a play with any interacti
 
 Take a deeper look at the strategies the authors have used to tell their story. Describe how the storytelling team have used the following:
 
-|               | Questions to investigate how the story been put together                                    |
+|               | Questions to investigate how the story has been put together                                |
 | -------------:| ------------------------------------------------------------------------------------------- |
 |   **Context** | :question: How have the authors identified their audience?                                  |
 |               | :question: What knowledge do they assume the readers know, what new concepts are they going to introduce?|
