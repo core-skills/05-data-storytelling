@@ -84,7 +84,6 @@ achievement, because it holds the key to *our* future on Earth."
 
 <b id='f1'>#</b>: Duarte, N. (2010). Resonate: present visual stories that transform audiences. Wiley, Hoboken, N.J. [duarte.com/resonate/](https://www.duarte.com/resonate/)
 
-
 ## Telling Good Stories
 
 | 20 mins |
@@ -92,7 +91,19 @@ achievement, because it holds the key to *our* future on Earth."
 
 **Facts a story maketh not.**
 
+While a story often contains facts, they don't make it. A dot-point run through of
+a story illustrating just the key facts won't engage an audience.
+
 **Facts don't win friends.**
+
+If you're trying to convince someone, sometimes bombarding them with facts can
+be counter-productive. Especially where you have opposing views to start with
+(e.g climate change sceptics).
+
+Good stories are as much about inviting a conversation or questions from the audience
+as they are about conveying a message. While you can be explicit in describing
+your desired response, if you're unsure or if your motive is broad, you can approach
+the scenario in a way which drives curiosity and further interaction.
 
 ### Structure of a Narrative
 

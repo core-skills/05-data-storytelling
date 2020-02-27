@@ -20,10 +20,10 @@ incidents while at work. People are not good at assessing risk objectively –
 can we help them calibrate their risk detectors with a good data story?
 
 Some starting data to be used:
-* SafeWorkAustralia (`.xlsx`, `.pdf`):
+* Safe Work Australia (`.xlsx`, `.pdf`):
   [Statistical Tables](https://www.safeworkaustralia.gov.au/resources_publications/statistical-tables),
   [Time Series](https://www.safeworkaustralia.gov.au/doc/work-related-traumatic-injury-fatality-time-series),
-  [Traumatic Injury Fatalities Collection](https://www.safeworkaustralia.gov.au/collection/work-related-traumatic-injury-fatalities),
+  [Traumatic Injury Fatalities Collection](https://www.safeworkaustralia.gov.au/collection/work-related-traumatic-injury-fatalities)
 * Worksafe WA [State of the Work environment](https://www.commerce.wa.gov.au/worksafe/work-related-fatalities) (`.pdf`)
 * *or*, anything else you can find (e.g. [data.gov.au](data.gov.au),
   [Australian Bureau of Statistics](https://www.abs.gov.au/)).
@@ -62,10 +62,6 @@ We suggest the following use of your time:
     * How will you focus your audience’s attention?
     * Have you removed everything except the important aspects?
 
-### Worked Example
-
-* Present a worked example as a template for completing the exercise.
-* Point out where it could be improved.
 
 [Overview](./00_overview.md) |
 [Data Vis & Communication](./01_dataviscomms.md) |
