@@ -12,6 +12,10 @@
 
 Here we'll share our storyboards and ideas.
 
+In particular, raise issues or ideas around visualisation styles and attributes,
+how you established context and pitched the message, and data ethics!
+
+
 # Review
 
 | 20 mins |
