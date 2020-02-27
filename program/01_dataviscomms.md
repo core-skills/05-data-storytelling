@@ -55,9 +55,35 @@ Avoid 'slideuments'!
 | :question: What would a successful outcome look like?                                                           |
 | :question: What's your one-liner overview?                                                                      |
 
-### Big Ideas: Three Minute Story
+### Three Minute Story
 
-Boil down the 'so what' to a paragraph, and then to a single statement.
+When you have an idea or message to convey,
+you want to boil it down to the core essence,
+and present it in the simplest, most direct form.
+
+There are many names for this process or idea (e.g. "elevator pitch), but essentially what we want to do is turn our 'so what' into a paragraph which can be presented in just a few minutes.
+
+This is handy when you are given the time to present it in full, but increasingly time is at a premium and we may want to restrict it even more...
+
+### Big Ideas
+
+If you don't have three minutes, but you have a moment, how would you convey your story?
+
+Here we'll take our paragraph down our a single *message* which fits in a single sentence. Nancy Duarte, in her book *Resonate*<sup>[#](#f1)</sup> describes the key features of this message:
+
+* It must articulate your unique point of view.
+* It must convey what's at stake.
+* It must be a complete sentence.
+
+Additionally, we'd add:
+* The shorter the better.
+* Where relevant, make it personal.
+
+For example, rather than a message which is summarised as "Lunar Mission", use "The United States should lead in space
+achievement, because it holds the key to *our* future on Earth."
+
+<b id='f1'>#</b>: Duarte, N. (2010). Resonate: present visual stories that transform audiences. Wiley, Hoboken, N.J. [duarte.com/resonate/](https://www.duarte.com/resonate/)
+
 
 ### Storyboarding
 
@@ -105,6 +131,13 @@ Consider making separate/linked plots, or labelling items directly (e.g for line
 
 ### Gestalt Principles: Structure in Visualisations
 
+"Gestalt" follows from the German for form or shape. In psychology and design, it's
+used to refer to patterns or configuration.
+
+The "Gestalt Principles" provide a framework for explaining why we see things the
+way we do, and in particular how we perceive the ordering of things. The principles
+include:
+
 * Proximity
 * Similarity
 * Enclosure
@@ -141,11 +174,11 @@ meaning they can be used (or abused) to enhance some aspect of the data visualis
 without effort from the audience. These properties include colour, form, spatial
 position and motion.
 
-Colour:
+**Colour**
 * Hue
 * Intensity
 
-Form:
+**Form**
 * Orientation and co-linearity
 * Shape
 * Line length
