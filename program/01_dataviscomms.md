@@ -185,15 +185,15 @@ Consider making separate/linked plots, or labelling items directly (e.g for line
 used to refer to patterns or configuration.
 
 The "Gestalt Principles" provide a framework for explaining why we see things the
-way we do, and in particular how we perceive the ordering of things. The principles
+way we do, and in particular how we perceive the order of things. The principles
 include:
 
-* Proximity
-* Similarity
-* Enclosure
-* Closure
-* Continuity
-* Connection
+* Proximity (things closer are grouped)
+* Similarity (things which appear more similar are grouped)
+* Enclosure (things which share common enclosure are grouped)
+* Closure (we prefer complete shapes, and will automatically fill gaps)
+* Continuity (we create continuity in what we see, even if it does not explicitly exist)
+* Connection (we group things which are connected)
 
 ### Attention and Memory
 
