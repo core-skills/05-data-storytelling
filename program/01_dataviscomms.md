@@ -257,6 +257,23 @@ Be aware that some colours and symbols may have cultural annotations.
 
 [![Pre-attentive attributes (Figure modified after Heldiney Pereira on Medium).](./images/PreattentiveAttributes.png)](https://medium.com/design-at-zoopla/building-purposeful-ui-using-pre-attentive-attributes-9c5ee5dcc25c)
 
+### Colour
+
+Colour can be useful to highlight or divide,
+
+But (mis)use of colour result in accessibility issues - (e.g. consider the various types of colour-blindness)
+
+There are also significant implications for readability and perception, especially where you’re mapping colours to non-categorical variables (i.e. using colormaps):
+
+* Sequential, divergent or cyclic (e.g. is data centred about zero? Does it oscillate?)
+* Linearity and perceptual uniformity
+
+* Using non-uniform colormaps can distort how your data appears, and result in biases!
+
+There are other options beyond [`matplotlib`](https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html), if you’re interested – like these from Fabio Crameri:
+
+[![Scientific Colormaps from Fabio Crameri](./images/ScientificColourMaps_FabioCrameri.png)](http://www.fabiocrameri.ch/colourmaps.php)
+
 ### Aesthetics
 
 | :question: What makes a plot look nice? |
@@ -288,7 +305,6 @@ to them, and how they can use it.
   styling, buttons, hover tools etc)
 
 Consider aspects of affordance and accessibility in your projects too.
-
 
 [Overview](./00_overview.md) |
 [Data Vis & Communication](./01_dataviscomms.md) |
