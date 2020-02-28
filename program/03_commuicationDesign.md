@@ -26,7 +26,7 @@ Some starting data to be used:
 * *or*, anything else you can find (e.g. [data.gov.au](data.gov.au),
   [Australian Bureau of Statistics](https://www.abs.gov.au/)).
 
-For a challenge later, maybe have a look at the US National Electronic Injury Surveillance System ([~390,000 injuries `.xlsx` from 2018](https://cpsc.gov/cgibin/NEISSQuery/Data/Archived%20Data/2018/neiss2018.xlsx))
+For a challenge later, maybe have a look at the US National Electronic Injury Surveillance System ([~390,000 injuries `.xlsx` from 2018](https://cpsc.gov/cgibin/NEISSQuery/Data/Archived%20Data/2018/neiss2018.xlsx)), used in [this PyConAU talk](https://www.youtube.com/watch?v=6d3Yk7a2qYI).
 
 You will have an hour and a half to complete this exercise.
 We will be sharing these with the rest of the class after afternoon tea,
