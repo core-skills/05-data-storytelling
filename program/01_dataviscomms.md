@@ -196,6 +196,8 @@ include:
 * Continuity (we create continuity in what we see, even if it does not explicitly exist)
 * Connection (we group things which are connected)
 
+[![Gestalt-Principles (modified after UXCheat.com).](./images/GestaltUXCheatcom.png)](https://uxcheat.com/visual-ui-design/gestalt-principles/)
+
 ### Attention and Memory
 
 | :question: What happens in the brain? |
@@ -252,6 +254,8 @@ order of a figure which is not bounded will be akin to reading of a page of text
 (from right to left and then down, in the Western world).
 
 Be aware that some colours and symbols may have cultural annotations.
+
+[![Pre-attentive attributes (Figure modified after Heldiney Pereira on Medium).](./images/PreattentiveAttributes.png)](https://medium.com/design-at-zoopla/building-purposeful-ui-using-pre-attentive-attributes-9c5ee5dcc25c)
 
 ### Aesthetics
 
