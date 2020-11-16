@@ -23,19 +23,19 @@
 
 ## Schedule
 
-| Start | End   | Agenda                                   |
-| -----:|:----- | ---------------------------------------- |
-| 08:30 | 08:45 | Q&A, Issues & Announcements              |
-| 08:45 | 10:00 | [**Data Vis & Communication**]           |
-| 10:00 | 10:30 | *Morning Tea*                            |
-| 10:30 | 11:30 | [**Data Stories**]                       |
-| 11:30 | 12:15 | **Project Work**                         |
-| 12:15 | 13:00 | *Lunch*                                  |
-| 13:00 | 14:30 | [**Building Storyboards**]               |
-| 14:30 | 15:00 | *Afternoon Tea*                          |
-| 15:00 | 15:50 | [**Storyboard Presentation and Review**] |
-| 15:50 | 15:55 | [**Closeout**]                           |
-| 15:55 | 16:45 | **Project Work**                         |
+
+|          AWST | AEST          | Agenda                                   |
+| -------------:|:------------- | ---------------------------------------- |
+| 07:30 - 07:45 | 09:30 - 09:45 | Q&A, Issues & Announcements              |
+| 07:45 - 09:15 | 09:45 - 11:15 | [**Data Vis & Communication**]           |
+| 09:15 - 09:30 | 11:15 - 11:30 | *Morning Tea*                            |
+| 09:30 - 11:00 | 11:30 - 13:00 | [**Data Stories**]                       |
+| 11:00 - 11:45 | 13:00 - 13:45 | *Lunch*                                  |
+| 11:45 - 13:15 | 13:45 - 15:15 | [**Building Storyboards**]               |
+| 13:15 - 13:30 | 15:15 - 15:30 | *Afternoon Tea*                          |
+| 13:30 - 14:45 | 15:30 - 16:45 | [**Storyboard Presentation and Review**] |
+| 14:45 - 15:00 | 16:45 - 17:00 | [**Closeout**]                           |
+
 
 [**Data Vis & Communication**]: ./01_dataviscomms.md
 
