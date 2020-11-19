@@ -7,7 +7,7 @@
 
 # Storyboard Presentations
 
-| 30 mins |
+| 60 mins |
 | ------- |
 
 Here we'll share our storyboards and ideas.
@@ -17,7 +17,7 @@ how you established context and pitched the message, and data ethics!
 
 # Review
 
-| 20 mins |
+| 15 mins |
 | ------- |
 
 The last section for today before closeout will review the first
@@ -41,12 +41,6 @@ few weeks of the program.
 7.	Have you had enough examples and opportunities to practice (which)?
 8.	Are we meeting your expectations?
 
-# Closeout & Project time
-
-| 55 mins |
-| ------- |
-
-More time for projects or to work through examples we have been through.
 
 [Overview](./00_overview.md) |
 [Data Vis & Communication](./01_dataviscomms.md) |
