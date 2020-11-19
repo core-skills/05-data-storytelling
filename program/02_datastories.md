@@ -87,27 +87,38 @@ storyboards around risk reduction.
 
 The stories for this exercise will come from the [ABC interactives](https://www.abc.net.au/news/interactives/).
 
-1. [See how global warming has changed the world since your childhood](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
+1. [How Trump’s ‘beautiful map’ turned against him](https://www.abc.net.au/news/2020-11-08/us-election-results-map-biden-trump-president/12861122)
 
-2. [Pitched battles: Countries that face off in the World Cup are more likely to come into real-world conflict](https://www.abc.net.au/news/2018-06-14/does-the-world-cup-make-countries-more-aggressive-football-war/9699646)
+2. [How accurate are Australia's coronavirus numbers? The answer lies in our death data](https://www.abc.net.au/news/2020-06-23/coronavirus-australia-excess-deaths-data-analysis/12321162)
 
-3. [When will be a good time for the US to act on gun control?](https://www.abc.net.au/news/2017-11-01/las-vegas-shooting-gun-control-searches/9030590)
+3. [These charts track how coronavirus is spreading around the world](https://www.abc.net.au/news/2020-05-13/coronavirus-numbers-worldwide-data-tracking-charts/12107500?nw=0)
 
-4. [How life has changed for people your age](https://www.abc.net.au/news/2018-12-13/how-life-has-changed-for-people-your-age/10303912)
+4. [How Australians feel about the coronavirus crisis and Scott Morrison's response](https://www.abc.net.au/news/2020-04-28/coronavirus-data-feelings-opinions-covid-survey-numbers/12188608)
 
-5. [What Australians really think about climate action](https://www.abc.net.au/news/2020-02-05/australia-attitudes-climate-change-action-morrison-government/11878510)
+# More data stories to have a look at
 
-6. [What reporter Will Ockenden's metadata reveals about his life](https://www.abc.net.au/news/2015-08-24/metadata-what-you-found-will-ockenden/6703626)
 
-7. [What you’d spend to prevent climate change — and what you could get with your money](https://www.abc.net.au/news/2019-12-17/what-youd-spend-to-halt-climate-change-and-what-you-could-get/11784704)
+5. [See how global warming has changed the world since your childhood](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
 
-8. [What the world's 15 biggest emitters are promising on climate change](https://www.abc.net.au/news/2015-08-11/climate-change-what-top-15-emitters-are-promising/6686548)
+6. [Pitched battles: Countries that face off in the World Cup are more likely to come into real-world conflict](https://www.abc.net.au/news/2018-06-14/does-the-world-cup-make-countries-more-aggressive-football-war/9699646)
 
-9. [How hard is it to make a believable deepfake?](https://www.abc.net.au/news/2018-09-28/fake-news-how-hard-is-it-to-make-a-deepfake-video/10313906)
+7. [When will be a good time for the US to act on gun control?](https://www.abc.net.au/news/2017-11-01/las-vegas-shooting-gun-control-searches/9030590)
 
-10. [Where can North Korea’s missiles reach?](https://www.abc.net.au/news/2017-10-16/north-korea-missile-range-map/8880894)
+8. [How life has changed for people your age](https://www.abc.net.au/news/2018-12-13/how-life-has-changed-for-people-your-age/10303912)
 
-11. [Book week: Analysis of bestsellers suggests kids' bookshelves are on a lean](https://www.abc.net.au/news/2018-08-22/kids-book-top-100-analysis/10042904)
+9. [What Australians really think about climate action](https://www.abc.net.au/news/2020-02-05/australia-attitudes-climate-change-action-morrison-government/11878510)
+
+10. [What reporter Will Ockenden's metadata reveals about his life](https://www.abc.net.au/news/2015-08-24/metadata-what-you-found-will-ockenden/6703626)
+
+11. [What you’d spend to prevent climate change — and what you could get with your money](https://www.abc.net.au/news/2019-12-17/what-youd-spend-to-halt-climate-change-and-what-you-could-get/11784704)
+
+12. [What the world's 15 biggest emitters are promising on climate change](https://www.abc.net.au/news/2015-08-11/climate-change-what-top-15-emitters-are-promising/6686548)
+
+13. [How hard is it to make a believable deepfake?](https://www.abc.net.au/news/2018-09-28/fake-news-how-hard-is-it-to-make-a-deepfake-video/10313906)
+
+14. [Where can North Korea’s missiles reach?](https://www.abc.net.au/news/2017-10-16/north-korea-missile-range-map/8880894)
+
+15. [Book week: Analysis of bestsellers suggests kids' bookshelves are on a lean](https://www.abc.net.au/news/2018-08-22/kids-book-top-100-analysis/10042904)
     - A similar story alternative: [Bear finds a voice](https://www.abc.net.au/news/2018-08-22/bear-finds-a-voice-kids-book-analysis/10002538)
 
 ### More examples to look at in your free time
