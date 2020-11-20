@@ -121,8 +121,6 @@ The stories for this exercise will come from the [ABC interactives](https://www.
 15. [Book week: Analysis of bestsellers suggests kids' bookshelves are on a lean](https://www.abc.net.au/news/2018-08-22/kids-book-top-100-analysis/10042904)
     - A similar story alternative: [Bear finds a voice](https://www.abc.net.au/news/2018-08-22/bear-finds-a-voice-kids-book-analysis/10002538)
 
-Make your own ABC style data story using [Scrollyteller](https://github.com/abcnews/scrollyteller)
-
 ### More examples to look at in your free time
 
 If you’re looking for more examples of excellent data storytelling, check out:
@@ -132,6 +130,7 @@ If you’re looking for more examples of excellent data storytelling, check out:
 - [Nathan Yau/FlowingData](https://flowingdata.com)
 - [NYT R&D group](http://nytlabs.com )
 
+Make your own ABC style data story using [Scrollyteller](https://github.com/abcnews/scrollyteller)
 
 [Overview](./00_overview.md) |
 [Data Vis & Communication](./01_dataviscomms.md) |
